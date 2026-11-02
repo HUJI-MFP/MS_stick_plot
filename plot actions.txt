@@ -1,0 +1,17 @@
+Key	Action	Notes
+E	Edit the main plot title	Updates immediately
+X	Edit the X-axis label	Updates immediately
+Y	Edit the Y-axis label	Updates immediately
+T	Edit axis/tick text style	X/Y title font size + bold, X/Y tick font size + bold
+Z	Edit X/Y axis limits	Set min/max for both axes
+B	Toggle top/right border (spines)	Hide/show top and right black outline
+L	Legend editor	Rename/delete/add legend items, show/hide legend, move legend, set legend title, legend font size
+G	Grid menu	Show grid / Remove grid / Toggle grid
+N	Remove grid (clean mode)	Forces no major/minor grid and white background
+F	Edit figure size	Set width/height in inches
+P	Peak label font options	Increase/decrease or set exact font size for all peak labels
+S	Synonym editor	Change monomer synonyms live and update all labels in real time
+C	Category color editor	Change amino/hydroxy/copoly colors in real time (labels, sticks, connectors, legend)
+A	Add a custom label	Click near a peak after pressing A
+R	Remove a label	Click near a label after pressing R
+Mouse drag	Move existing labels	Left-click and drag a label text

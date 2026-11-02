@@ -1,0 +1,7 @@
+build/
+build_new/
+dist/
+*.exe
+*.rar
+__pycache__/
+*.xlsx
